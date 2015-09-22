@@ -1,0 +1,10 @@
+{
+  "name": "serializable-key-set",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "niezgoda",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
